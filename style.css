@@ -1,4 +1,7 @@
-
+*{
+    margin: 0;
+    padding: 0;
+}
 
 h1{
     text-align: center;
@@ -39,4 +42,8 @@ p{
     font-size: 22px;
     background-color: black;
     padding: 11px;
+}
+
+a{
+    color: azure;
 }
